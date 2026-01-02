@@ -1,0 +1,25 @@
+# image_size: 224
+# image_feature_dim: 512
+# text_embed_dim: 256
+# hidden_dim: 512
+# vocab_size: 30522
+# max_text_len: 32
+# learning_rate: 0.0003
+# batch_size: 2
+# epochs: 2
+# device: cpu
+
+
+# hidden_dim: 512
+# vocab_size: 30522
+# learning_rate: 0.0003
+# epochs: 1
+# device: cpu
+
+
+device: cpu
+epochs: 3
+learning_rate: 0.0003
+batch_size: 1
+hidden_dim: 256
+max_frames: 2
